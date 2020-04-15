@@ -1,7 +1,7 @@
 IniEd
 =====
 
-TC Lister-plugin for viewing and editing settings files (*.ini, *.inf, *.reg).
+TC Lister-plugin for viewing and editing settings files (.ini, .inf, .reg).
 Compared to text editors offers the convenience of editing 
 and high speed opening large files.
 
@@ -16,8 +16,8 @@ Manual Installation
 5. Press "Add" button and choose IniEd.wlx. Press "Ok".
 6. Enjoy! ;-)
 
-Note. To use the plugin with other file types (*.url, *.log), you can edit 
-      the corresponding "_detect" line in the wincmd.ini file and add 
+Note. To use the plugin with other file types (.url, .log), you can edit 
+      the corresponding `_detect` line in the wincmd.ini file and add 
       the extension you want.
 
 Hotkeys
@@ -79,8 +79,8 @@ Author wants to thank the following persons:
 
 Author
 ------
-StayAtHome
-Web:    <https://stayathome.github.io/IniEd-page>
+StayAtHome  
+Web:    <https://stayathome.github.io/IniEd-page>  
 E-Mail: <stayathome@email.ua>
 
 
