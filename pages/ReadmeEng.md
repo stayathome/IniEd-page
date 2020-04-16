@@ -7,7 +7,7 @@ Compared to text editors offers the convenience of editing and high speed openin
 
 **Download:** [wlx_inied_2.0.7z](https://stayathome.github.io/files/wlx_inied_2.0.7z)
 
-_Minimal requirements_: Total Commander 5.51
+_Minimal requirements:_ Total Commander 5.51
 
 
 Manual Installation
@@ -19,8 +19,8 @@ Manual Installation
 5. Press "Add" button and choose IniEd.wlx. Press "Ok".
 6. Enjoy! ;-)
 
-Note. To use the plugin with other file types (`*.url, *.log`), you can edit the corresponding
-      `_detect` line in the wincmd.ini file and add the extension you want.
+_Note._ To use the plugin with other file types (`*.url, *.log`), you can edit the corresponding 
+`_detect` line in the wincmd.ini file and add the extension you want.
 
 Hotkeys
 -------
@@ -50,11 +50,11 @@ Ctrl+A            | Select whole string (in edit mode)
 Ctrl+D            | Duplicate string
 Ctrl+N            | Add new section below the current
 Ctrl+Shift+N      | Add new section to bottom
-Ctrl+` or Ctrl+BackSpace    | Do/undo comment
+Ctrl+` or Ctrl+BackSpace | Do/undo comment
 Ctrl+S            | Save changes
 Ctrl+Shift+S      | Save as...
 Ctrl+Z            | Undo last change
-Ctrl+Shift+Z or Alt+BackSpace     | Redo last change
+Ctrl+Shift+Z or Alt+BackSpace | Redo last change
 Ctrl+P            | Options
 Alt+A             | ANSI Encoding
 Alt+U             | Unicode Encoding
@@ -95,7 +95,7 @@ Version history
 🗲 Significantly improved performance of plugin  
 ✓ An ability to select multiple lines added  
 ✓ Plugin settings file (IniEd.ini) can be stored either in the same directory wincmd.ini (default) 
-   or in the plugin directory (as in the previous version).  
+  or in the plugin directory (as in the previous version).  
 ✓ Improved Unicode support also for long file paths (more than 259 characters).  
 ✓ Improved encoding auto-detection.  
 ＋ Horisontal layout for REG files (+autoheight).  
@@ -127,7 +127,7 @@ Version history
 ＋ Background color settings is added for left and right panels.  
 ＋ Font style and color settings is added for left panel and for sign "=".  
 
-v. 1.1 - 13.07.2004
+[v. 1.1 - 13.07.2004](files/wlx_inied_1.1.rar)
 
 － Fixed the error occured while calling the options window.  
 ✓ Sections listing font is changed to "MS Sans Serif" as default.  
@@ -150,7 +150,7 @@ v. 1.1 - 13.07.2004
 ＋ The information about strings and sections added to status bar.  
 ＋ Alternative hotkey for "Comment/Uncomment" (Ctrl+BackSpace).  
 
-v. 1.0 - 05.07.2004
+[v. 1.0 - 05.07.2004](files/wlx_inied_1.0.rar)
 
 ✓ Improved fonts rendering in the Options dialogue.  
 － Some points in context menu didn't work.  
@@ -158,7 +158,7 @@ v. 1.0 - 05.07.2004
 － Error occured while working in an empty section.  
 － The focus didn't move to Section list after the forced call (button "4").  
 
-v. 0.4 Beta - 27.06.2004
+[v. 0.4 Beta - 27.06.2004](files/wlx_inied_0.4.rar)
 
 🗲  Plugin completely rebuilt  
 ＋ Different hotkeys added  
@@ -173,20 +173,21 @@ v. 0.4 Beta - 27.06.2004
 ＋ Menu item "Save As..." added  
 ＋ Saving Section Panel width added  
 
-v. 0.3 Beta - still didn't appear in public for it's slowness
+[v. 0.3 Beta]() - still didn't appear in public for it's slowness
 
 🗲  Syntax highliting rebuid for WinAPI and turned to separate stream  
 ✓ The Section panel font turned to proportional  
 ＋ Adeed Current Section Name bar  
 ＋ Added Ctrl+S hotkey  
 
-v. 0.2 Alpha - 31.01.2004
+[v. 0.2 Alpha - 31.01.2004](files/wlx_inied_0.2.rar)
 
 🗲  First working buid. A little bit slow yet almost perfect, surprisingly  
 
-v. 0.1 Alpha - Never appeared in public
+[v. 0.1 Alpha]() - Never appeared in public
 
-Legend:
+*Legend:*
+
 🗲  - Important  
 ＋ - Added  
 ✓ - Changed  
