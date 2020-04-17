@@ -1,6 +1,6 @@
 IniEd
 =====
-[**Eng**](#) [Ukr](pages/ReadmeUkr.html) [Rus](pages/ReadmeRus.html)
+[**Eng**](#) [Ukr](/pages/ReadmeUkr.html) [Rus](pages/ReadmeRus.html)
 
 TC Lister-plugin for viewing and editing settings files (`*.ini, *.inf, *.reg`).
 Compared to text editors offers the convenience of editing and high speed opening large files.
