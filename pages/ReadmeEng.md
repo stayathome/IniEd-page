@@ -1,16 +1,13 @@
 IniEd
 =====
+[**Eng**](#) [Ukr](pages/ReadmeUkr.html) [Rus](pages/ReadmeRus.html)
 
 TC Lister-plugin for viewing and editing settings files (`*.ini, *.inf, *.reg`).
 Compared to text editors offers the convenience of editing and high speed opening large files.
 
 
-**Download:** [wlx_inied_2.0.7z](https://stayathome.github.io/files/wlx_inied_2.0.7z)
-
-[Discussion (rusian)](http://forum.wincmd.ru/viewtopic.php?t=184)
-
-_Minimal requirements:_ Total Commander 5.51
-
+**Download:** [wlx_inied_2.0.7z](https://stayathome.github.io/files/wlx_inied_2.0.7z)  
+Discuss: <http://forum.wincmd.ru/viewtopic.php?t=184>
 
 Manual Installation
 -------------------
@@ -27,7 +24,7 @@ _Note._ To use the plugin with other file types (`*.url, *.log`), you can edit t
 Hotkeys
 -------
 
-Hotkeys           | Action
+Hotkey           | Action
 ------------------|------------------------------------------------
 Tab or Ctrl+Tab   | Switch between the Section and String panels
 Ctrl+Tab          | Toggle key/value selection while string editing
@@ -90,6 +87,9 @@ E-Mail: <stayathome@email.ua>
 
 Version history
 --------------
+🗲 Important  ＋ Added  ✓ Changed  － Bug fixed
+
+
 [v. 2.0 - 14.04.2020](files/wlx_inied_2.0.7z)
 
 🗲 64-bit support added (Total Commander 8.X)  
@@ -187,10 +187,3 @@ Version history
 🗲  First working buid. A little bit slow yet almost perfect, surprisingly  
 
 [v. 0.1 Alpha]() - Never appeared in public
-
-*Legend:*
-
-🗲  - Important  
-＋ - Added  
-✓ - Changed  
-－ - Bug fixed  
