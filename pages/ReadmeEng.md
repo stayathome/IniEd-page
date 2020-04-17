@@ -7,6 +7,8 @@ Compared to text editors offers the convenience of editing and high speed openin
 
 **Download:** [wlx_inied_2.0.7z](https://stayathome.github.io/files/wlx_inied_2.0.7z)
 
+[Discussion (rusian)](http://forum.wincmd.ru/viewtopic.php?t=184)
+
 _Minimal requirements:_ Total Commander 5.51
 
 
