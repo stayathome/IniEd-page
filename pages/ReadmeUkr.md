@@ -1,6 +1,6 @@
 IniEd
 -----
-[Eng](/) [**Ukr**](#) [Rus](ReadmeRus.html)
+[Eng](ReadmeEng.html) [**Ukr**](#) [Rus](ReadmeRus.html)
 
 Lister-плагін для Total Commander для перегляду і редагування файлів налаштувань (`*.ini, *.inf, *.reg`).
 
